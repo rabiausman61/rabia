@@ -1,0 +1,100 @@
+.menu{
+    background-color: lightgray;
+    border-style: solid 2px lightgrey;
+    border-width: 2px;
+    height: 15px;
+    padding : 20px;
+    padding-top: 20px;
+    margin-bottom:50px;
+    margin-top:50px;
+    
+    }
+    .ul1 a{
+        padding:40px;
+        text-decoration: none;
+        color:grey;
+    }
+    a:hover{
+        color: black;
+    }
+    
+    .p1 a{
+        text-decoration: none;
+        color: grey;
+    }
+    .container{
+    
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .left{
+        
+        margin-left: 20px;
+       margin-right: 20px;
+       width: 18%;
+        float: left;
+       
+    }
+    
+    .left a{
+        text-decoration: none;
+        color:black;
+    }
+    
+    .right {
+       margin-left: 76px;
+       margin-right: 76px;
+       width: 18%;
+       border: 1px solid gray;
+       padding: 2px;
+       float: right;
+    }
+    .right a{
+        padding: 10px;
+        text-decoration: none;
+        color:lightskyblue; 
+    }
+    .online  {
+
+
+
+
+        color: black;
+    }
+        
+.online a:active {
+    color :red;
+
+}
+
+    
+    .middle{
+
+            overflow: hidden;
+            font-family: arial;
+            font-size: 16px;
+            width: 600px
+    
+    }
+
+
+
+    .searchbar
+    {
+        float:right;
+    
+       
+    }
+   .pictures{
+       margin-left: 250px;
+       
+       
+   }
+   .heading{
+       
+       font-size: 43px ;
+       font-family: Arial;
+       font-weight: bold;
+       color: #424242;
+   }
+   
